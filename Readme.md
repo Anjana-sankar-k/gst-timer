@@ -24,9 +24,8 @@ that’s it.
 # Clone the repo
 git clone https://github.com/your-username/timer.git
 cd timer
+npm i  
+npm run dev 
+```
 
-# Install dependencies (if any)
-npm install  # or flutter pub get / pip install -r requirements.txt depending on your stack
-
-# Run the app
-npm start  # or flutter run / python main.py, etc.
+Made with lovee- rue
